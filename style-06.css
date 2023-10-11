@@ -10,11 +10,17 @@
 /* YOU CAN CHANGE THE HTML CODE IF YOU WANT - BUT IT WILL WORK WITHOUT ANY CHANGES */
 /* YOU CAN CHANGE THE LOGO AS WELL IF YOU WANT */
 
-header {}
+header {
 
-.logo-heading-wrapper {}
+}
 
-header nav {}
+.logo-heading-wrapper {
+
+}
+
+header nav {
+  
+}
 
 /* This removes the discs / bullets from the list items */
 header nav ul {
