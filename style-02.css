@@ -7,6 +7,9 @@
  */
 
  .flex-container {
+  display: flex;
+justify-content: space-between ;
+align-items: start;
   /* This sets a height on our flex container */
   height: 300px;
 
@@ -19,7 +22,7 @@
 
 .item:last-child {
   /* 3. Use the align-self property to move the red box to the bottom (end) */
-
+align-self: end;
   /* 4. Check out other align-self properties on the red box to see what happens
 
     center
